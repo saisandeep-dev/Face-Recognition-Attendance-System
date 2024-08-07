@@ -20,11 +20,11 @@ The Face Recognition Attendance System is a Python-based application that automa
 - Webcam Not Working: Check that the correct camera index is set in config.py and that the webcam is connected properly.
 
 ## Advantages
-- Increased Accuracy: Reduces errors associated with manual attendance marking by automating the recognition process.
-- Efficiency: Speeds up the attendance process by eliminating the need for manual entry.
-- Real-time Monitoring: Provides immediate feedback and records attendance in real-time.
-- Scalability: Can be used in various environments, including classrooms, offices, and events, with minimal adjustments.
-- Reduced Human Error: Minimizes the risk of errors that can occur with manual attendance systems.
+- **Increased Accuracy**: Reduces errors associated with manual attendance marking by automating the recognition process.
+- **Efficiency**: Speeds up the attendance process by eliminating the need for manual entry.
+- **Real-time Monitoring**: Provides immediate feedback and records attendance in real-time.
+- **Scalability**: Can be used in various environments, including classrooms, offices, and events, with minimal adjustments.
+- **Reduced Human Error**: Minimizes the risk of errors that can occur with manual attendance systems.
 
 ## References
 - Build Face Recognition Attendance System Using Python: This article provides a comprehensive guide to building a face recognition-based attendance system using Python.
